@@ -10,3 +10,10 @@ Just one more thing added to practive :)
 
 <a href="google.com" target="_blank">Random link</a> to 
 <strong>nowhere</strong>.
+
+Forgot to check the difference with diff command, so one more random 
+thing.
+
+<img src="http://google.com/google.png" alt="hopefully a link to 
+googles logo"/>
+Hello World, onwards to more Git and then finally JavaScript.
